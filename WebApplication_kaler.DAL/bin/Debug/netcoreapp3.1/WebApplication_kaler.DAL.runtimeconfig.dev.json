@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mrbli\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mrbli\\.nuget\\packages"
+    ]
+  }
+}
